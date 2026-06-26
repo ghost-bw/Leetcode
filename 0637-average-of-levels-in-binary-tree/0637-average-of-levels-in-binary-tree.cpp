@@ -17,22 +17,21 @@ public:
         queue<TreeNode*> q;
         q.push(root);
         while(!q.empty()){
+            
             int ls=q.size();
+            int size=ls;
             vector<int> temp;
+            double avgsum=0;
+           
             while(ls--){
                 TreeNode* t=q.front();
                 temp.push_back(t->val);
                 q.pop();
+                avgsum+=t->val;
                 if(t->left!=NULL) q.push(t->left);
                 if(t->right!=NULL) q.push(t->right);
             }
-            double avgsum=0;
-            double avg;
-            for(auto i: temp){
-                avgsum+=i;
-                 avg=avgsum/temp.size();
-            }
-            ans.push_back(avg);
+            ans.push_back(avgsum/size);
         }
         return ans;
     }
