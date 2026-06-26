@@ -19,11 +19,11 @@ public:
         bool odd=1;
         while(!q.empty()){
             int ls=q.size();
-            vector<int> temp;
-            while(ls--){
+            vector<int> temp(ls);
+            for(int i=0;i<ls;i++){
                 TreeNode* t=q.front();
-                if(odd)temp.push_back(t->val);
-                else temp.insert(temp.begin(),t->val);
+                 int idx = odd ? i : ls - 1 - i;
+                 temp[idx] = t->val;
                 
                 q.pop();
                 
