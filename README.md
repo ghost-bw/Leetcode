@@ -60,6 +60,7 @@ updates will be here
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ghost-bw/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ghost-bw/Leetcode/tree/master/0066-plus-one) |
 ## Linked List
 |  |
