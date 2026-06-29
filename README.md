@@ -5,6 +5,7 @@ updates will be here
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/ghost-bw/Leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/ghost-bw/Leetcode/tree/master/0066-plus-one) |
 | [0494-target-sum](https://github.com/ghost-bw/Leetcode/tree/master/0494-target-sum) |
 ## Dynamic Programming
@@ -63,4 +64,8 @@ updates will be here
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ghost-bw/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/ghost-bw/Leetcode/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
