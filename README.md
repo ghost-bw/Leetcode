@@ -5,6 +5,7 @@ updates will be here
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ghost-bw/Leetcode/tree/master/0066-plus-one) |
 | [0494-target-sum](https://github.com/ghost-bw/Leetcode/tree/master/0494-target-sum) |
 ## Dynamic Programming
 |  |
@@ -54,4 +55,8 @@ updates will be here
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ghost-bw/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/ghost-bw/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
