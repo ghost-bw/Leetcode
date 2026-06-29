@@ -17,6 +17,7 @@ updates will be here
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ghost-bw/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ghost-bw/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ghost-bw/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ghost-bw/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -34,6 +35,7 @@ updates will be here
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ghost-bw/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ghost-bw/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ghost-bw/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ghost-bw/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -43,8 +45,13 @@ updates will be here
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ghost-bw/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ghost-bw/Leetcode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/ghost-bw/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ghost-bw/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ghost-bw/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/ghost-bw/Leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
