@@ -73,5 +73,6 @@ updates will be here
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/ghost-bw/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ghost-bw/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
