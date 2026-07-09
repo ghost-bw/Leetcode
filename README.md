@@ -38,6 +38,7 @@ updates will be here
 | [0207-course-schedule](https://github.com/ghost-bw/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ghost-bw/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ghost-bw/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/ghost-bw/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ghost-bw/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -58,6 +59,7 @@ updates will be here
 | [0210-course-schedule-ii](https://github.com/ghost-bw/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ghost-bw/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ghost-bw/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/ghost-bw/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ghost-bw/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -92,9 +94,11 @@ updates will be here
 | ------- |
 | [0207-course-schedule](https://github.com/ghost-bw/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ghost-bw/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/ghost-bw/Leetcode/tree/master/0310-minimum-height-trees) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ghost-bw/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ghost-bw/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/ghost-bw/Leetcode/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
