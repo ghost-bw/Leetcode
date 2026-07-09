@@ -14,6 +14,7 @@ updates will be here
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/ghost-bw/Leetcode/tree/master/0494-target-sum) |
+| [1143-longest-common-subsequence](https://github.com/ghost-bw/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -76,6 +77,7 @@ updates will be here
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ghost-bw/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [1143-longest-common-subsequence](https://github.com/ghost-bw/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ghost-bw/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
