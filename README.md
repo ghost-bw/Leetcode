@@ -72,11 +72,13 @@ updates will be here
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ghost-bw/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ghost-bw/Leetcode/tree/master/0066-plus-one) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ghost-bw/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Hash Table
 |  |
@@ -115,4 +117,8 @@ updates will be here
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/ghost-bw/Leetcode/tree/master/0068-text-justification) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
