@@ -20,6 +20,7 @@ updates will be here
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ghost-bw/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ghost-bw/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ghost-bw/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/ghost-bw/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/ghost-bw/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [3866-first-unique-even-element](https://github.com/ghost-bw/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Dynamic Programming
@@ -109,6 +110,7 @@ updates will be here
 | [1207-unique-number-of-occurrences](https://github.com/ghost-bw/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ghost-bw/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ghost-bw/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/ghost-bw/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/ghost-bw/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/ghost-bw/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [3866-first-unique-even-element](https://github.com/ghost-bw/Leetcode/tree/master/3866-first-unique-even-element) |
@@ -133,6 +135,7 @@ updates will be here
 | [0387-first-unique-character-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ghost-bw/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ghost-bw/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/ghost-bw/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/ghost-bw/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/ghost-bw/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [3866-first-unique-even-element](https://github.com/ghost-bw/Leetcode/tree/master/3866-first-unique-even-element) |
