@@ -27,6 +27,7 @@ updates will be here
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ghost-bw/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0338-counting-bits](https://github.com/ghost-bw/Leetcode/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ghost-bw/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/ghost-bw/Leetcode/tree/master/0494-target-sum) |
 | [1143-longest-common-subsequence](https://github.com/ghost-bw/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -239,6 +240,7 @@ updates will be here
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ghost-bw/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/ghost-bw/Leetcode/tree/master/0338-counting-bits) |
 | [2351-first-letter-to-appear-twice](https://github.com/ghost-bw/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/ghost-bw/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 <!---LeetCode Topics End-->
