@@ -91,6 +91,7 @@ updates will be here
 | [0002-add-two-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ghost-bw/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ghost-bw/Leetcode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/ghost-bw/Leetcode/tree/master/0231-power-of-two) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ghost-bw/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Linked List
 |  |
@@ -168,6 +169,7 @@ updates will be here
 | [0002-add-two-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ghost-bw/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ghost-bw/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0231-power-of-two](https://github.com/ghost-bw/Leetcode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -242,6 +244,7 @@ updates will be here
 | ------- |
 | [0136-single-number](https://github.com/ghost-bw/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ghost-bw/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/ghost-bw/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/ghost-bw/Leetcode/tree/master/0338-counting-bits) |
 | [2351-first-letter-to-appear-twice](https://github.com/ghost-bw/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/ghost-bw/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
