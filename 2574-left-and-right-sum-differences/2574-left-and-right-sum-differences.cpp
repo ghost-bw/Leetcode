@@ -15,11 +15,10 @@ public:
         for(int i=0;i<n;i++){
             leftsum.push_back(ls);
             ls+=nums[i];
-        }
-        for(int i=0;i<n;i++){
             int res=abs(leftsum[i]-rightsum[i]);
             ans.push_back(res);
         }
+       
         return ans;
     }
 };
