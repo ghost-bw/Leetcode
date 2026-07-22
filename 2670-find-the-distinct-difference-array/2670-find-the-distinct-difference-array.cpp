@@ -1,19 +1,26 @@
 class Solution {
 public:
     vector<int> distinctDifferenceArray(vector<int>& nums) {
-        unordered_map<int,int> f;
-        for (int x : nums) f[x]++;
+        int n = nums.size();
+        vector<int> pre(n), suf(n), ans;
+        unordered_set<int> s;
 
-        unordered_set<int> l;
-        vector<int> ans;
+        for (int i = 0; i < n; i++) {
+            s.insert(nums[i]);
+            pre[i] = s.size();
+        }
 
-        for (int x : nums) {
-            l.insert(x);
+        s.clear();
 
-            f[x]--;
-            if (f[x] == 0) f.erase(x);
+        for (int i = n - 1; i >= 0; i--) {
+            s.insert(nums[i]);
+            suf[i] = s.size();
+        }
 
-            ans.push_back(l.size() - f.size());
+        for (int i = 0; i < n; i++) {
+            int left = pre[i];
+            int right = (i == n - 1) ? 0 : suf[i + 1];
+            ans.push_back(left - right);
         }
 
         return ans;
