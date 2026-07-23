@@ -34,6 +34,7 @@ updates will be here
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ghost-bw/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0131-palindrome-partitioning](https://github.com/ghost-bw/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/ghost-bw/Leetcode/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ghost-bw/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/ghost-bw/Leetcode/tree/master/0494-target-sum) |
@@ -43,6 +44,7 @@ updates will be here
 | ------- |
 | [0037-sudoku-solver](https://github.com/ghost-bw/Leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/ghost-bw/Leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/ghost-bw/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ghost-bw/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/ghost-bw/Leetcode/tree/master/0494-target-sum) |
 ## Tree
@@ -134,6 +136,7 @@ updates will be here
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0068-text-justification](https://github.com/ghost-bw/Leetcode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/ghost-bw/Leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/ghost-bw/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0387-first-unique-character-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ghost-bw/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/ghost-bw/Leetcode/tree/master/0796-rotate-string) |
