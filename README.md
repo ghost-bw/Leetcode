@@ -12,6 +12,7 @@ updates will be here
 | [0042-trapping-rain-water](https://github.com/ghost-bw/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/ghost-bw/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ghost-bw/Leetcode/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/ghost-bw/Leetcode/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/ghost-bw/Leetcode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ghost-bw/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ghost-bw/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -41,6 +42,7 @@ updates will be here
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ghost-bw/Leetcode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/ghost-bw/Leetcode/tree/master/0079-word-search) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ghost-bw/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/ghost-bw/Leetcode/tree/master/0494-target-sum) |
 ## Tree
@@ -77,6 +79,7 @@ updates will be here
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ghost-bw/Leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/ghost-bw/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ghost-bw/Leetcode/tree/master/0101-symmetric-tree) |
 | [0207-course-schedule](https://github.com/ghost-bw/Leetcode/tree/master/0207-course-schedule) |
@@ -130,6 +133,7 @@ updates will be here
 | [0008-string-to-integer-atoi](https://github.com/ghost-bw/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0068-text-justification](https://github.com/ghost-bw/Leetcode/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/ghost-bw/Leetcode/tree/master/0079-word-search) |
 | [0387-first-unique-character-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ghost-bw/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/ghost-bw/Leetcode/tree/master/0796-rotate-string) |
@@ -168,6 +172,7 @@ updates will be here
 | ------- |
 | [0036-valid-sudoku](https://github.com/ghost-bw/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ghost-bw/Leetcode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/ghost-bw/Leetcode/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
