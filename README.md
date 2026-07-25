@@ -110,6 +110,7 @@ updates will be here
 | ------- |
 | [0002-add-two-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ghost-bw/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/ghost-bw/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ghost-bw/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ghost-bw/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/ghost-bw/Leetcode/tree/master/0231-power-of-two) |
@@ -124,6 +125,7 @@ updates will be here
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ghost-bw/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ghost-bw/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/ghost-bw/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ghost-bw/Leetcode/tree/master/0037-sudoku-solver) |
@@ -151,6 +153,7 @@ updates will be here
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ghost-bw/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/ghost-bw/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ghost-bw/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/0049-group-anagrams) |
