@@ -16,6 +16,7 @@ updates will be here
 | [0079-word-search](https://github.com/ghost-bw/Leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/ghost-bw/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ghost-bw/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ghost-bw/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ghost-bw/Leetcode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ghost-bw/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ghost-bw/Leetcode/tree/master/0217-contains-duplicate) |
@@ -132,6 +133,7 @@ updates will be here
 | [0037-sudoku-solver](https://github.com/ghost-bw/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ghost-bw/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/ghost-bw/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/ghost-bw/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ghost-bw/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ghost-bw/Leetcode/tree/master/0242-valid-anagram) |
@@ -326,4 +328,8 @@ updates will be here
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/ghost-bw/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ghost-bw/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
