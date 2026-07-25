@@ -10,6 +10,7 @@ updates will be here
 | [0037-sudoku-solver](https://github.com/ghost-bw/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ghost-bw/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ghost-bw/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/ghost-bw/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ghost-bw/Leetcode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/ghost-bw/Leetcode/tree/master/0079-word-search) |
@@ -124,6 +125,7 @@ updates will be here
 | [0036-valid-sudoku](https://github.com/ghost-bw/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ghost-bw/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ghost-bw/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ghost-bw/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ghost-bw/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ghost-bw/Leetcode/tree/master/0242-valid-anagram) |
@@ -145,6 +147,7 @@ updates will be here
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ghost-bw/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/ghost-bw/Leetcode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/ghost-bw/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/ghost-bw/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -245,6 +248,7 @@ updates will be here
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ghost-bw/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ghost-bw/Leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/ghost-bw/Leetcode/tree/master/0220-contains-duplicate-iii) |
