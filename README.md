@@ -141,6 +141,7 @@ updates will be here
 | [0387-first-unique-character-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ghost-bw/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/ghost-bw/Leetcode/tree/master/0567-permutation-in-string) |
 | [0804-unique-morse-code-words](https://github.com/ghost-bw/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ghost-bw/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1207-unique-number-of-occurrences](https://github.com/ghost-bw/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -168,6 +169,7 @@ updates will be here
 | [0387-first-unique-character-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ghost-bw/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/ghost-bw/Leetcode/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/ghost-bw/Leetcode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/ghost-bw/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ghost-bw/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -225,6 +227,7 @@ updates will be here
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ghost-bw/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0567-permutation-in-string](https://github.com/ghost-bw/Leetcode/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -327,6 +330,7 @@ updates will be here
 | [0219-contains-duplicate-ii](https://github.com/ghost-bw/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/ghost-bw/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ghost-bw/Leetcode/tree/master/0567-permutation-in-string) |
 ## Ordered Set
 |  |
 | ------- |
