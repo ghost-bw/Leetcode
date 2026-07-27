@@ -30,6 +30,7 @@ updates will be here
 | [0953-verifying-an-alien-dictionary](https://github.com/ghost-bw/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1207-unique-number-of-occurrences](https://github.com/ghost-bw/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/ghost-bw/Leetcode/tree/master/1436-destination-city) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ghost-bw/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ghost-bw/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ghost-bw/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ghost-bw/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -290,6 +291,7 @@ updates will be here
 | [0347-top-k-frequent-elements](https://github.com/ghost-bw/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ghost-bw/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/ghost-bw/Leetcode/tree/master/0561-array-partition) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ghost-bw/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ghost-bw/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ghost-bw/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -300,6 +302,7 @@ updates will be here
 | [0239-sliding-window-maximum](https://github.com/ghost-bw/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ghost-bw/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ghost-bw/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ghost-bw/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
