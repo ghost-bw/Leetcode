@@ -43,6 +43,7 @@ updates will be here
 | [2670-find-the-distinct-difference-array](https://github.com/ghost-bw/Leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ghost-bw/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/ghost-bw/Leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ghost-bw/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3866-first-unique-even-element](https://github.com/ghost-bw/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Dynamic Programming
 |  |
@@ -312,6 +313,7 @@ updates will be here
 | [1636-sort-array-by-increasing-frequency](https://github.com/ghost-bw/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ghost-bw/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ghost-bw/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -351,6 +353,7 @@ updates will be here
 | ------- |
 | [0561-array-partition](https://github.com/ghost-bw/Leetcode/tree/master/0561-array-partition) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ghost-bw/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ghost-bw/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
 | ------- |
