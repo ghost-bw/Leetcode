@@ -23,8 +23,8 @@ public:
     void pre(Node* root,vector<int>&res){
         if(!root) return;
         res.push_back(root->val);
-        for (Node* child : root->children) {
-            pre(child, res);
+        for (auto it : root->children) {
+            pre(it, res);
         }
     }
     vector<int> preorder(Node* root) {
