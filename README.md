@@ -123,6 +123,7 @@ updates will be here
 | [0012-integer-to-roman](https://github.com/ghost-bw/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ghost-bw/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ghost-bw/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ghost-bw/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/ghost-bw/Leetcode/tree/master/0231-power-of-two) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ghost-bw/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Linked List
@@ -175,6 +176,7 @@ updates will be here
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ghost-bw/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ghost-bw/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ghost-bw/Leetcode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/ghost-bw/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/ghost-bw/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -227,6 +229,7 @@ updates will be here
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ghost-bw/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ghost-bw/Leetcode/tree/master/0068-text-justification) |
 | [2390-removing-stars-from-a-string](https://github.com/ghost-bw/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
@@ -325,6 +328,7 @@ updates will be here
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ghost-bw/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ghost-bw/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ghost-bw/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ghost-bw/Leetcode/tree/master/0231-power-of-two) |
