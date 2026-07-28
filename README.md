@@ -191,6 +191,7 @@ updates will be here
 | [0067-add-binary](https://github.com/ghost-bw/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ghost-bw/Leetcode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/ghost-bw/Leetcode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/ghost-bw/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/ghost-bw/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ghost-bw/Leetcode/tree/master/0242-valid-anagram) |
@@ -256,6 +257,7 @@ updates will be here
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ghost-bw/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/ghost-bw/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ghost-bw/Leetcode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0633-sum-of-square-numbers) |
