@@ -19,7 +19,7 @@ public:
         
         while (left < right) {
             if (s[left] != s[right]) {
-                // If a mismatch occurs, try skipping either the left OR the right character
+              
                 return isPalindrome(s, left + 1, right) || isPalindrome(s, left, right - 1);
             }
             left++;
