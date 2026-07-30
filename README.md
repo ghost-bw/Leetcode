@@ -179,6 +179,7 @@ updates will be here
 | [0242-valid-anagram](https://github.com/ghost-bw/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ghost-bw/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/ghost-bw/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ghost-bw/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/ghost-bw/Leetcode/tree/master/0525-contiguous-array) |
@@ -218,6 +219,7 @@ updates will be here
 | [0151-reverse-words-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ghost-bw/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/ghost-bw/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ghost-bw/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/ghost-bw/Leetcode/tree/master/0567-permutation-in-string) |
@@ -412,6 +414,7 @@ updates will be here
 | [0219-contains-duplicate-ii](https://github.com/ghost-bw/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/ghost-bw/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/ghost-bw/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/ghost-bw/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ghost-bw/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ghost-bw/Leetcode/tree/master/0643-maximum-average-subarray-i) |
