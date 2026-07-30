@@ -47,6 +47,7 @@ updates will be here
 | [2615-sum-of-distances](https://github.com/ghost-bw/Leetcode/tree/master/2615-sum-of-distances) |
 | [2670-find-the-distinct-difference-array](https://github.com/ghost-bw/Leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ghost-bw/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2831-find-the-longest-equal-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/ghost-bw/Leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ghost-bw/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3866-first-unique-even-element](https://github.com/ghost-bw/Leetcode/tree/master/3866-first-unique-even-element) |
@@ -129,6 +130,7 @@ updates will be here
 | [0098-validate-binary-search-tree](https://github.com/ghost-bw/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0633-sum-of-square-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ghost-bw/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2831-find-the-longest-equal-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 ## Math
 |  |
 | ------- |
@@ -181,6 +183,7 @@ updates will be here
 | [2506-count-pairs-of-similar-strings](https://github.com/ghost-bw/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2615-sum-of-distances](https://github.com/ghost-bw/Leetcode/tree/master/2615-sum-of-distances) |
 | [2670-find-the-distinct-difference-array](https://github.com/ghost-bw/Leetcode/tree/master/2670-find-the-distinct-difference-array) |
+| [2831-find-the-longest-equal-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 | [3866-first-unique-even-element](https://github.com/ghost-bw/Leetcode/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
@@ -391,6 +394,7 @@ updates will be here
 | [0239-sliding-window-maximum](https://github.com/ghost-bw/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ghost-bw/Leetcode/tree/master/0567-permutation-in-string) |
+| [2831-find-the-longest-equal-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 ## Ordered Set
 |  |
 | ------- |
