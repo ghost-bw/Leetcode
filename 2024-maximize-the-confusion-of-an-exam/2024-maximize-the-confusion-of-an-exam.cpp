@@ -1,34 +1,30 @@
 class Solution {
 public:
-    int solve(string &answerKey, int k, char target) {
-        int l = 0;
-        int targetCount = 0;
-        int otherCount = 0;
-        int ans = 0;
-
-        for (int r = 0; r < answerKey.size(); r++) {
-
-            if (answerKey[r] == target)
-                targetCount++;
-            else
-                otherCount++;
-
-            while (otherCount > k) {
-                if (answerKey[l] == target)
-                    targetCount--;
-                else
-                    otherCount--;
-                l++;
+    int maxConsecutiveAnswers(string answerKey, int k) {
+        int n=answerKey.size();
+        int countF=0;
+        int countT=0;
+        int ans=1;
+        int j=0;
+        for(int i=0;i<n;i++){
+            if(answerKey[i]=='T'){
+                countT++;
+            }else{
+                countF++;
             }
 
-            ans = max(ans, r - l + 1);
+            int mini=min(countF,countT);
+            while(mini>k){
+                if(answerKey[j]=='T'){
+                    countT--;
+                }else{
+                    countF--;
+                }
+                mini=min(countT,countF);
+                j++;
+            }
+            ans=max(ans,countT+countF);
         }
-
         return ans;
-    }
-
-    int maxConsecutiveAnswers(string answerKey, int k) {
-        return max(solve(answerKey, k, 'T'),
-                   solve(answerKey, k, 'F'));
     }
 };
