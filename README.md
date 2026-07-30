@@ -37,6 +37,7 @@ updates will be here
 | [1052-grumpy-bookstore-owner](https://github.com/ghost-bw/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1207-unique-number-of-occurrences](https://github.com/ghost-bw/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ghost-bw/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ghost-bw/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ghost-bw/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/ghost-bw/Leetcode/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ghost-bw/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -390,6 +391,7 @@ updates will be here
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/ghost-bw/Leetcode/tree/master/0525-contiguous-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ghost-bw/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2574-left-and-right-sum-differences](https://github.com/ghost-bw/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/ghost-bw/Leetcode/tree/master/2615-sum-of-distances) |
 ## Sliding Window
@@ -404,6 +406,7 @@ updates will be here
 | [0643-maximum-average-subarray-i](https://github.com/ghost-bw/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/ghost-bw/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ghost-bw/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ghost-bw/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ghost-bw/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2831-find-the-longest-equal-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 ## Ordered Set
