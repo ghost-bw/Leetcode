@@ -257,6 +257,7 @@ updates will be here
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/ghost-bw/Leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ghost-bw/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3794-reverse-string-prefix](https://github.com/ghost-bw/Leetcode/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -294,6 +295,7 @@ updates will be here
 | [0067-add-binary](https://github.com/ghost-bw/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ghost-bw/Leetcode/tree/master/0068-text-justification) |
 | [2390-removing-stars-from-a-string](https://github.com/ghost-bw/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -319,6 +321,7 @@ updates will be here
 | [0917-reverse-only-letters](https://github.com/ghost-bw/Leetcode/tree/master/0917-reverse-only-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/ghost-bw/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/ghost-bw/Leetcode/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Stack
 |  |
 | ------- |
