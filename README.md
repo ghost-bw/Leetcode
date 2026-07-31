@@ -246,6 +246,7 @@ updates will be here
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ghost-bw/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ghost-bw/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ghost-bw/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2000-reverse-prefix-of-word](https://github.com/ghost-bw/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ghost-bw/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2278-percentage-of-letter-in-string](https://github.com/ghost-bw/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
@@ -314,6 +315,7 @@ updates will be here
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ghost-bw/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/ghost-bw/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/ghost-bw/Leetcode/tree/master/0917-reverse-only-letters) |
+| [2000-reverse-prefix-of-word](https://github.com/ghost-bw/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/ghost-bw/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
@@ -321,6 +323,7 @@ updates will be here
 | [0042-trapping-rain-water](https://github.com/ghost-bw/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ghost-bw/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ghost-bw/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [2000-reverse-prefix-of-word](https://github.com/ghost-bw/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/ghost-bw/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
