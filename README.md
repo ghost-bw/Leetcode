@@ -161,6 +161,7 @@ updates will be here
 | [0357-count-numbers-with-unique-digits](https://github.com/ghost-bw/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0633-sum-of-square-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ghost-bw/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2119-a-number-after-a-double-reversal](https://github.com/ghost-bw/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 ## Linked List
 |  |
 | ------- |
