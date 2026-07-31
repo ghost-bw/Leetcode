@@ -35,6 +35,7 @@ updates will be here
 | [0643-maximum-average-subarray-i](https://github.com/ghost-bw/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0804-unique-morse-code-words](https://github.com/ghost-bw/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/ghost-bw/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/ghost-bw/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ghost-bw/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ghost-bw/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ghost-bw/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -189,6 +190,7 @@ updates will be here
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ghost-bw/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0804-unique-morse-code-words](https://github.com/ghost-bw/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/ghost-bw/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/ghost-bw/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ghost-bw/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ghost-bw/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/ghost-bw/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -412,6 +414,7 @@ updates will be here
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ghost-bw/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ghost-bw/Leetcode/tree/master/0525-contiguous-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/ghost-bw/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ghost-bw/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ghost-bw/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ghost-bw/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -430,6 +433,7 @@ updates will be here
 | [0567-permutation-in-string](https://github.com/ghost-bw/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ghost-bw/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/ghost-bw/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/ghost-bw/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ghost-bw/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ghost-bw/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/ghost-bw/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
