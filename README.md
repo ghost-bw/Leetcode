@@ -164,6 +164,7 @@ updates will be here
 | [0066-plus-one](https://github.com/ghost-bw/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ghost-bw/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/ghost-bw/Leetcode/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/ghost-bw/Leetcode/tree/master/0292-nim-game) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ghost-bw/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0633-sum-of-square-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ghost-bw/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -510,4 +511,24 @@ updates will be here
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ghost-bw/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ghost-bw/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ghost-bw/Leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ghost-bw/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ghost-bw/Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ghost-bw/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ghost-bw/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
