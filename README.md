@@ -174,6 +174,7 @@ updates will be here
 | [0633-sum-of-square-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ghost-bw/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ghost-bw/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ghost-bw/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Linked List
 |  |
 | ------- |
@@ -276,6 +277,7 @@ updates will be here
 | [2506-count-pairs-of-similar-strings](https://github.com/ghost-bw/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/ghost-bw/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/ghost-bw/Leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ghost-bw/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ghost-bw/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3794-reverse-string-prefix](https://github.com/ghost-bw/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -455,6 +457,7 @@ updates will be here
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ghost-bw/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ghost-bw/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/ghost-bw/Leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ghost-bw/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ghost-bw/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ghost-bw/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
