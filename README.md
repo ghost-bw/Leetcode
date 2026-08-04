@@ -69,6 +69,7 @@ updates will be here
 | [2831-find-the-longest-equal-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/ghost-bw/Leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ghost-bw/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3731-find-missing-elements](https://github.com/ghost-bw/Leetcode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/ghost-bw/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Dynamic Programming
 |  |
@@ -224,6 +225,7 @@ updates will be here
 | [2670-find-the-distinct-difference-array](https://github.com/ghost-bw/Leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ghost-bw/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/ghost-bw/Leetcode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/ghost-bw/Leetcode/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
@@ -409,6 +411,7 @@ updates will be here
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ghost-bw/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ghost-bw/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3731-find-missing-elements](https://github.com/ghost-bw/Leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
