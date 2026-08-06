@@ -34,7 +34,7 @@ public:
             }
             
             if (left == right) {
-                max_len = std::max(max_len, 2 * left);
+                max_len = max(max_len, 2 * left);
             } else if (left > right) {
                 left = right = 0; // Reset on invalid state
             }
