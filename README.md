@@ -14,6 +14,7 @@ updates will be here
 | [0042-trapping-rain-water](https://github.com/ghost-bw/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ghost-bw/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ghost-bw/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ghost-bw/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ghost-bw/Leetcode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/ghost-bw/Leetcode/tree/master/0079-word-search) |
@@ -79,6 +80,7 @@ updates will be here
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ghost-bw/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ghost-bw/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ghost-bw/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/ghost-bw/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ghost-bw/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/ghost-bw/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -460,6 +462,7 @@ updates will be here
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ghost-bw/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ghost-bw/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ghost-bw/Leetcode/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/ghost-bw/Leetcode/tree/master/0680-valid-palindrome-ii) |
