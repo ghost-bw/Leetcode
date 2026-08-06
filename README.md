@@ -36,6 +36,7 @@ updates will be here
 | [0628-maximum-product-of-three-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ghost-bw/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0804-unique-morse-code-words](https://github.com/ghost-bw/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [0860-lemonade-change](https://github.com/ghost-bw/Leetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/ghost-bw/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ghost-bw/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ghost-bw/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -458,6 +459,7 @@ updates will be here
 | ------- |
 | [0561-array-partition](https://github.com/ghost-bw/Leetcode/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/ghost-bw/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/ghost-bw/Leetcode/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/ghost-bw/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ghost-bw/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ghost-bw/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
