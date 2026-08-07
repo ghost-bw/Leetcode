@@ -381,6 +381,7 @@ updates will be here
 | [0032-longest-valid-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ghost-bw/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ghost-bw/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/ghost-bw/Leetcode/tree/master/0155-min-stack) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ghost-bw/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [2000-reverse-prefix-of-word](https://github.com/ghost-bw/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/ghost-bw/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -591,4 +592,8 @@ updates will be here
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ghost-bw/Leetcode/tree/master/0075-sort-colors) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ghost-bw/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
