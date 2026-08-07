@@ -18,6 +18,7 @@ updates will be here
 | [0055-jump-game](https://github.com/ghost-bw/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ghost-bw/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ghost-bw/Leetcode/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/ghost-bw/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ghost-bw/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ghost-bw/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ghost-bw/Leetcode/tree/master/0118-pascals-triangle) |
@@ -356,6 +357,7 @@ updates will be here
 | [0018-4sum](https://github.com/ghost-bw/Leetcode/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ghost-bw/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/ghost-bw/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ghost-bw/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ghost-bw/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -420,6 +422,7 @@ updates will be here
 | ------- |
 | [0018-4sum](https://github.com/ghost-bw/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/ghost-bw/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ghost-bw/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ghost-bw/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ghost-bw/Leetcode/tree/master/0217-contains-duplicate) |
@@ -576,9 +579,14 @@ updates will be here
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ghost-bw/Leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/ghost-bw/Leetcode/tree/master/0455-assign-cookies) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/0032-longest-valid-parentheses) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ghost-bw/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
