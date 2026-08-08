@@ -407,6 +407,7 @@ updates will be here
 | [0181-employees-earning-more-than-their-managers](https://github.com/ghost-bw/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/ghost-bw/Leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/ghost-bw/Leetcode/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/ghost-bw/Leetcode/tree/master/0184-department-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ghost-bw/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/ghost-bw/Leetcode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/ghost-bw/Leetcode/tree/master/0595-big-countries) |
