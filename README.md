@@ -94,6 +94,7 @@ updates will be here
 | [0045-jump-game-ii](https://github.com/ghost-bw/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ghost-bw/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ghost-bw/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/ghost-bw/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ghost-bw/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ghost-bw/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ghost-bw/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -191,6 +192,7 @@ updates will be here
 | [0013-roman-to-integer](https://github.com/ghost-bw/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ghost-bw/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ghost-bw/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/ghost-bw/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ghost-bw/Leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/ghost-bw/Leetcode/tree/master/0292-nim-game) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ghost-bw/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -621,4 +623,8 @@ updates will be here
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ghost-bw/Leetcode/tree/master/0155-min-stack) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ghost-bw/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
