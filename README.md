@@ -300,6 +300,7 @@ updates will be here
 | [1436-destination-city](https://github.com/ghost-bw/Leetcode/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ghost-bw/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/ghost-bw/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/ghost-bw/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ghost-bw/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1816-truncate-sentence](https://github.com/ghost-bw/Leetcode/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ghost-bw/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -329,6 +330,7 @@ updates will be here
 | [0451-sort-characters-by-frequency](https://github.com/ghost-bw/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ghost-bw/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ghost-bw/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/ghost-bw/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ghost-bw/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/ghost-bw/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/ghost-bw/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
