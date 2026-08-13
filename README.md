@@ -97,6 +97,7 @@ updates will be here
 | [0045-jump-game-ii](https://github.com/ghost-bw/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ghost-bw/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ghost-bw/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ghost-bw/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ghost-bw/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ghost-bw/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ghost-bw/Leetcode/tree/master/0120-triangle) |
@@ -200,6 +201,7 @@ updates will be here
 | [0009-palindrome-number](https://github.com/ghost-bw/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ghost-bw/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ghost-bw/Leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/ghost-bw/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ghost-bw/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ghost-bw/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ghost-bw/Leetcode/tree/master/0070-climbing-stairs) |
@@ -648,4 +650,8 @@ updates will be here
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/ghost-bw/Leetcode/tree/master/0337-house-robber-iii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ghost-bw/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
