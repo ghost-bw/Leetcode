@@ -38,6 +38,7 @@ updates will be here
 | [0220-contains-duplicate-iii](https://github.com/ghost-bw/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/ghost-bw/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ghost-bw/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/ghost-bw/Leetcode/tree/master/0396-rotate-function) |
 | [0455-assign-cookies](https://github.com/ghost-bw/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ghost-bw/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/ghost-bw/Leetcode/tree/master/0494-target-sum) |
@@ -110,6 +111,7 @@ updates will be here
 | [0337-house-robber-iii](https://github.com/ghost-bw/Leetcode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/ghost-bw/Leetcode/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ghost-bw/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0396-rotate-function](https://github.com/ghost-bw/Leetcode/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/ghost-bw/Leetcode/tree/master/0494-target-sum) |
 | [1143-longest-common-subsequence](https://github.com/ghost-bw/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ghost-bw/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -211,6 +213,7 @@ updates will be here
 | [0292-nim-game](https://github.com/ghost-bw/Leetcode/tree/master/0292-nim-game) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ghost-bw/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/ghost-bw/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0396-rotate-function](https://github.com/ghost-bw/Leetcode/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ghost-bw/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
