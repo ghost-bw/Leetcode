@@ -26,6 +26,7 @@ updates will be here
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ghost-bw/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ghost-bw/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ghost-bw/Leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/ghost-bw/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ghost-bw/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/ghost-bw/Leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/ghost-bw/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -101,6 +102,7 @@ updates will be here
 | [0120-triangle](https://github.com/ghost-bw/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ghost-bw/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/ghost-bw/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/ghost-bw/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ghost-bw/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ghost-bw/Leetcode/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/ghost-bw/Leetcode/tree/master/0337-house-robber-iii) |
