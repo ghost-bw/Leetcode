@@ -13,6 +13,7 @@ updates will be here
 | [0041-first-missing-positive](https://github.com/ghost-bw/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ghost-bw/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ghost-bw/Leetcode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/ghost-bw/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ghost-bw/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ghost-bw/Leetcode/tree/master/0055-jump-game) |
@@ -201,6 +202,7 @@ updates will be here
 | [0009-palindrome-number](https://github.com/ghost-bw/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ghost-bw/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ghost-bw/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/ghost-bw/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ghost-bw/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ghost-bw/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ghost-bw/Leetcode/tree/master/0067-add-binary) |
@@ -365,6 +367,7 @@ updates will be here
 | ------- |
 | [0036-valid-sudoku](https://github.com/ghost-bw/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ghost-bw/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/ghost-bw/Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/ghost-bw/Leetcode/tree/master/0079-word-search) |
 ## Simulation
 |  |
