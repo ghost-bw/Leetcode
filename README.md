@@ -78,6 +78,7 @@ updates will be here
 | [1710-maximum-units-on-a-truck](https://github.com/ghost-bw/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ghost-bw/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/ghost-bw/Leetcode/tree/master/1816-truncate-sentence) |
+| [1920-build-array-from-permutation](https://github.com/ghost-bw/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ghost-bw/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ghost-bw/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ghost-bw/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -398,6 +399,7 @@ updates will be here
 | [0067-add-binary](https://github.com/ghost-bw/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ghost-bw/Leetcode/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/ghost-bw/Leetcode/tree/master/0735-asteroid-collision) |
+| [1920-build-array-from-permutation](https://github.com/ghost-bw/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ghost-bw/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/ghost-bw/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2717-semi-ordered-permutation](https://github.com/ghost-bw/Leetcode/tree/master/2717-semi-ordered-permutation) |
