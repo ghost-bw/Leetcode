@@ -240,6 +240,7 @@ updates will be here
 | [2119-a-number-after-a-double-reversal](https://github.com/ghost-bw/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ghost-bw/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ghost-bw/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ghost-bw/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Linked List
 |  |
 | ------- |
