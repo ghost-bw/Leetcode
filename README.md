@@ -44,6 +44,7 @@ updates will be here
 | [0396-rotate-function](https://github.com/ghost-bw/Leetcode/tree/master/0396-rotate-function) |
 | [0455-assign-cookies](https://github.com/ghost-bw/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ghost-bw/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/ghost-bw/Leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/ghost-bw/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ghost-bw/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/ghost-bw/Leetcode/tree/master/0525-contiguous-array) |
@@ -208,6 +209,7 @@ updates will be here
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ghost-bw/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ghost-bw/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/ghost-bw/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0493-reverse-pairs](https://github.com/ghost-bw/Leetcode/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ghost-bw/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0704-binary-search](https://github.com/ghost-bw/Leetcode/tree/master/0704-binary-search) |
@@ -514,6 +516,7 @@ updates will be here
 | [0191-number-of-1-bits](https://github.com/ghost-bw/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ghost-bw/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ghost-bw/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/ghost-bw/Leetcode/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -641,6 +644,7 @@ updates will be here
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/ghost-bw/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0493-reverse-pairs](https://github.com/ghost-bw/Leetcode/tree/master/0493-reverse-pairs) |
 ## Union-Find
 |  |
 | ------- |
@@ -709,4 +713,20 @@ updates will be here
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ghost-bw/Leetcode/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ghost-bw/Leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ghost-bw/Leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ghost-bw/Leetcode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ghost-bw/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
