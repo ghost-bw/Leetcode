@@ -80,6 +80,7 @@ updates will be here
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ghost-bw/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/ghost-bw/Leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1816-truncate-sentence](https://github.com/ghost-bw/Leetcode/tree/master/1816-truncate-sentence) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ghost-bw/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1920-build-array-from-permutation](https://github.com/ghost-bw/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ghost-bw/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ghost-bw/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -216,6 +217,7 @@ updates will be here
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ghost-bw/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0704-binary-search](https://github.com/ghost-bw/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/ghost-bw/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ghost-bw/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ghost-bw/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2831-find-the-longest-equal-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 ## Math
@@ -541,6 +543,7 @@ updates will be here
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ghost-bw/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ghost-bw/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/ghost-bw/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ghost-bw/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ghost-bw/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ghost-bw/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -595,6 +598,7 @@ updates will be here
 | [0680-valid-palindrome-ii](https://github.com/ghost-bw/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/ghost-bw/Leetcode/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/ghost-bw/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ghost-bw/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ghost-bw/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ghost-bw/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2938-separate-black-and-white-balls](https://github.com/ghost-bw/Leetcode/tree/master/2938-separate-black-and-white-balls) |
@@ -615,6 +619,7 @@ updates will be here
 | [1004-max-consecutive-ones-iii](https://github.com/ghost-bw/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ghost-bw/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ghost-bw/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ghost-bw/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ghost-bw/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2574-left-and-right-sum-differences](https://github.com/ghost-bw/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/ghost-bw/Leetcode/tree/master/2615-sum-of-distances) |
@@ -641,6 +646,7 @@ updates will be here
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ghost-bw/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ghost-bw/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ghost-bw/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ghost-bw/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ghost-bw/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/ghost-bw/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2401-longest-nice-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2401-longest-nice-subarray) |
