@@ -257,6 +257,7 @@ updates will be here
 | [0024-swap-nodes-in-pairs](https://github.com/ghost-bw/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ghost-bw/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ghost-bw/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0148-sort-list](https://github.com/ghost-bw/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/ghost-bw/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ghost-bw/Leetcode/tree/master/0328-odd-even-linked-list) |
 ## Hash Table
@@ -444,6 +445,7 @@ updates will be here
 | [0075-sort-colors](https://github.com/ghost-bw/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ghost-bw/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ghost-bw/Leetcode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/ghost-bw/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ghost-bw/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -525,6 +527,7 @@ updates will be here
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ghost-bw/Leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/ghost-bw/Leetcode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/ghost-bw/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ghost-bw/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ghost-bw/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -536,6 +539,7 @@ updates will be here
 | [0049-group-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ghost-bw/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ghost-bw/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/ghost-bw/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ghost-bw/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ghost-bw/Leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/ghost-bw/Leetcode/tree/master/0220-contains-duplicate-iii) |
@@ -741,6 +745,7 @@ updates will be here
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ghost-bw/Leetcode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/ghost-bw/Leetcode/tree/master/0493-reverse-pairs) |
 ## Treap
 |  |
