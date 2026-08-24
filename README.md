@@ -117,6 +117,7 @@ updates will be here
 | [0055-jump-game](https://github.com/ghost-bw/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ghost-bw/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ghost-bw/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/ghost-bw/Leetcode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/ghost-bw/Leetcode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/ghost-bw/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ghost-bw/Leetcode/tree/master/0120-triangle) |
@@ -329,6 +330,7 @@ updates will be here
 | [0058-length-of-last-word](https://github.com/ghost-bw/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ghost-bw/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ghost-bw/Leetcode/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/ghost-bw/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/ghost-bw/Leetcode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/ghost-bw/Leetcode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/ghost-bw/Leetcode/tree/master/0125-valid-palindrome) |
