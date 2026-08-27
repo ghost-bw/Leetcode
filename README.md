@@ -519,6 +519,7 @@ updates will be here
 | [1084-sales-analysis-iii](https://github.com/ghost-bw/Leetcode/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/ghost-bw/Leetcode/tree/master/1148-article-views-i) |
 | [1158-market-analysis-i](https://github.com/ghost-bw/Leetcode/tree/master/1158-market-analysis-i) |
+| [1164-product-price-at-a-given-date](https://github.com/ghost-bw/Leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1251-average-selling-price](https://github.com/ghost-bw/Leetcode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/ghost-bw/Leetcode/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/ghost-bw/Leetcode/tree/master/1321-restaurant-growth) |
