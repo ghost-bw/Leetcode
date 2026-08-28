@@ -229,6 +229,7 @@ updates will be here
 | [0009-palindrome-number](https://github.com/ghost-bw/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ghost-bw/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ghost-bw/Leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/ghost-bw/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ghost-bw/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ghost-bw/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ghost-bw/Leetcode/tree/master/0066-plus-one) |
@@ -329,6 +330,7 @@ updates will be here
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ghost-bw/Leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/ghost-bw/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ghost-bw/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ghost-bw/Leetcode/tree/master/0067-add-binary) |
@@ -422,6 +424,7 @@ updates will be here
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ghost-bw/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ghost-bw/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ghost-bw/Leetcode/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/ghost-bw/Leetcode/tree/master/0735-asteroid-collision) |
