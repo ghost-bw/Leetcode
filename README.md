@@ -239,6 +239,7 @@ updates will be here
 | [0168-excel-sheet-column-title](https://github.com/ghost-bw/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ghost-bw/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/ghost-bw/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/ghost-bw/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ghost-bw/Leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/ghost-bw/Leetcode/tree/master/0292-nim-game) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ghost-bw/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -437,6 +438,7 @@ updates will be here
 | [0043-multiply-strings](https://github.com/ghost-bw/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ghost-bw/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ghost-bw/Leetcode/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/ghost-bw/Leetcode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/ghost-bw/Leetcode/tree/master/0735-asteroid-collision) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/ghost-bw/Leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1920-build-array-from-permutation](https://github.com/ghost-bw/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -780,4 +782,8 @@ updates will be here
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ghost-bw/Leetcode/tree/master/0493-reverse-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ghost-bw/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
