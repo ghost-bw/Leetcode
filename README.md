@@ -397,6 +397,7 @@ updates will be here
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ghost-bw/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ghost-bw/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/ghost-bw/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3498-reverse-degree-of-a-string](https://github.com/ghost-bw/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/ghost-bw/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Counting
@@ -448,6 +449,7 @@ updates will be here
 | [2390-removing-stars-from-a-string](https://github.com/ghost-bw/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2717-semi-ordered-permutation](https://github.com/ghost-bw/Leetcode/tree/master/2717-semi-ordered-permutation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ghost-bw/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/ghost-bw/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Recursion
 |  |
