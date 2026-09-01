@@ -550,6 +550,7 @@ updates will be here
 | [1661-average-time-of-process-per-machine](https://github.com/ghost-bw/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/ghost-bw/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ghost-bw/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+| [1873-calculate-special-bonus](https://github.com/ghost-bw/Leetcode/tree/master/1873-calculate-special-bonus) |
 | [1907-count-salary-categories](https://github.com/ghost-bw/Leetcode/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/ghost-bw/Leetcode/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/ghost-bw/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
