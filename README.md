@@ -138,6 +138,7 @@ updates will be here
 | [0509-fibonacci-number](https://github.com/ghost-bw/Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ghost-bw/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/ghost-bw/Leetcode/tree/master/0788-rotated-digits) |
+| [1137-n-th-tribonacci-number](https://github.com/ghost-bw/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/ghost-bw/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ghost-bw/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/ghost-bw/Leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
@@ -251,6 +252,7 @@ updates will be here
 | [0628-maximum-product-of-three-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/ghost-bw/Leetcode/tree/master/0788-rotated-digits) |
+| [1137-n-th-tribonacci-number](https://github.com/ghost-bw/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ghost-bw/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/ghost-bw/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/ghost-bw/Leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
@@ -767,6 +769,7 @@ updates will be here
 | ------- |
 | [0070-climbing-stairs](https://github.com/ghost-bw/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ghost-bw/Leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/ghost-bw/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## DP on Trees
 |  |
 | ------- |
