@@ -364,6 +364,7 @@ updates will be here
 | [0171-excel-sheet-column-number](https://github.com/ghost-bw/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/ghost-bw/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/ghost-bw/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/ghost-bw/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/ghost-bw/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ghost-bw/Leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/ghost-bw/Leetcode/tree/master/0299-bulls-and-cows) |
@@ -528,6 +529,7 @@ updates will be here
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/ghost-bw/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0796-rotate-string](https://github.com/ghost-bw/Leetcode/tree/master/0796-rotate-string) |
 ## Database
 |  |
@@ -823,4 +825,24 @@ updates will be here
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ghost-bw/Leetcode/tree/master/0278-first-bad-version) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ghost-bw/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ghost-bw/Leetcode/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ghost-bw/Leetcode/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ghost-bw/Leetcode/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ghost-bw/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
