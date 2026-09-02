@@ -252,6 +252,7 @@ updates will be here
 | [0509-fibonacci-number](https://github.com/ghost-bw/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0670-maximum-swap](https://github.com/ghost-bw/Leetcode/tree/master/0670-maximum-swap) |
 | [0788-rotated-digits](https://github.com/ghost-bw/Leetcode/tree/master/0788-rotated-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/ghost-bw/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ghost-bw/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -649,6 +650,7 @@ updates will be here
 | [0179-largest-number](https://github.com/ghost-bw/Leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/ghost-bw/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ghost-bw/Leetcode/tree/master/0561-array-partition) |
+| [0670-maximum-swap](https://github.com/ghost-bw/Leetcode/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/ghost-bw/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/ghost-bw/Leetcode/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/ghost-bw/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
