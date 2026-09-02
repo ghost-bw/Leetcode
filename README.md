@@ -104,6 +104,7 @@ updates will be here
 | [2778-sum-of-squares-of-special-elements](https://github.com/ghost-bw/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2831-find-the-longest-equal-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/ghost-bw/Leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
+| [3028-ant-on-the-boundary](https://github.com/ghost-bw/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ghost-bw/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ghost-bw/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/ghost-bw/Leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
@@ -462,6 +463,7 @@ updates will be here
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ghost-bw/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/ghost-bw/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2717-semi-ordered-permutation](https://github.com/ghost-bw/Leetcode/tree/master/2717-semi-ordered-permutation) |
+| [3028-ant-on-the-boundary](https://github.com/ghost-bw/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ghost-bw/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ghost-bw/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3498-reverse-degree-of-a-string](https://github.com/ghost-bw/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -690,6 +692,7 @@ updates will be here
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ghost-bw/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2574-left-and-right-sum-differences](https://github.com/ghost-bw/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/ghost-bw/Leetcode/tree/master/2615-sum-of-distances) |
+| [3028-ant-on-the-boundary](https://github.com/ghost-bw/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ghost-bw/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Sliding Window
 |  |
