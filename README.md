@@ -103,6 +103,7 @@ updates will be here
 | [2831-find-the-longest-equal-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/ghost-bw/Leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ghost-bw/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/ghost-bw/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/ghost-bw/Leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ghost-bw/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ghost-bw/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -259,6 +260,7 @@ updates will be here
 | [1927-sum-game](https://github.com/ghost-bw/Leetcode/tree/master/1927-sum-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ghost-bw/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ghost-bw/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/ghost-bw/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ghost-bw/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ghost-bw/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Linked List
@@ -451,6 +453,7 @@ updates will be here
 | [2390-removing-stars-from-a-string](https://github.com/ghost-bw/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2717-semi-ordered-permutation](https://github.com/ghost-bw/Leetcode/tree/master/2717-semi-ordered-permutation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ghost-bw/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/ghost-bw/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3498-reverse-degree-of-a-string](https://github.com/ghost-bw/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Recursion
@@ -675,6 +678,7 @@ updates will be here
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ghost-bw/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2574-left-and-right-sum-differences](https://github.com/ghost-bw/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/ghost-bw/Leetcode/tree/master/2615-sum-of-distances) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/ghost-bw/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Sliding Window
 |  |
 | ------- |
@@ -778,6 +782,7 @@ updates will be here
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ghost-bw/Leetcode/tree/master/0062-unique-paths) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/ghost-bw/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Binary Indexed Tree
 |  |
 | ------- |
