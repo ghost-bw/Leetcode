@@ -86,6 +86,7 @@ updates will be here
 | [1920-build-array-from-permutation](https://github.com/ghost-bw/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ghost-bw/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ghost-bw/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ghost-bw/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2090-k-radius-subarray-averages](https://github.com/ghost-bw/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ghost-bw/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ghost-bw/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -387,6 +388,7 @@ updates will be here
 | [1927-sum-game](https://github.com/ghost-bw/Leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ghost-bw/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/ghost-bw/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ghost-bw/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ghost-bw/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/ghost-bw/Leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ghost-bw/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -451,6 +453,7 @@ updates will be here
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/ghost-bw/Leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1920-build-array-from-permutation](https://github.com/ghost-bw/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ghost-bw/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ghost-bw/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/ghost-bw/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2717-semi-ordered-permutation](https://github.com/ghost-bw/Leetcode/tree/master/2717-semi-ordered-permutation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ghost-bw/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
