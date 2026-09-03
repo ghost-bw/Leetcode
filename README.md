@@ -251,6 +251,7 @@ updates will be here
 | [0263-ugly-number](https://github.com/ghost-bw/Leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/ghost-bw/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ghost-bw/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ghost-bw/Leetcode/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ghost-bw/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/ghost-bw/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/ghost-bw/Leetcode/tree/master/0396-rotate-function) |
@@ -479,6 +480,7 @@ updates will be here
 | [0206-reverse-linked-list](https://github.com/ghost-bw/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ghost-bw/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ghost-bw/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ghost-bw/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ghost-bw/Leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -652,6 +654,7 @@ updates will be here
 | [0201-bitwise-and-of-numbers-range](https://github.com/ghost-bw/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/ghost-bw/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/ghost-bw/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/ghost-bw/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ghost-bw/Leetcode/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/ghost-bw/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2401-longest-nice-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2401-longest-nice-subarray) |
