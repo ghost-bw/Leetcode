@@ -250,6 +250,7 @@ updates will be here
 | [0258-add-digits](https://github.com/ghost-bw/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ghost-bw/Leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/ghost-bw/Leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/ghost-bw/Leetcode/tree/master/0326-power-of-three) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ghost-bw/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/ghost-bw/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/ghost-bw/Leetcode/tree/master/0396-rotate-function) |
@@ -477,6 +478,7 @@ updates will be here
 | [0024-swap-nodes-in-pairs](https://github.com/ghost-bw/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/ghost-bw/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ghost-bw/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ghost-bw/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/ghost-bw/Leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
