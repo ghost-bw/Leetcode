@@ -601,6 +601,7 @@ updates will be here
 | [1965-employees-with-missing-information](https://github.com/ghost-bw/Leetcode/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/ghost-bw/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [3220-odd-and-even-transactions](https://github.com/ghost-bw/Leetcode/tree/master/3220-odd-and-even-transactions) |
+| [3436-find-valid-emails](https://github.com/ghost-bw/Leetcode/tree/master/3436-find-valid-emails) |
 ## Divide and Conquer
 |  |
 | ------- |
