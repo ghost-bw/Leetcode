@@ -117,6 +117,7 @@ updates will be here
 | [3731-find-missing-elements](https://github.com/ghost-bw/Leetcode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/ghost-bw/Leetcode/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ghost-bw/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ghost-bw/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -726,6 +727,7 @@ updates will be here
 | [2615-sum-of-distances](https://github.com/ghost-bw/Leetcode/tree/master/2615-sum-of-distances) |
 | [3028-ant-on-the-boundary](https://github.com/ghost-bw/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ghost-bw/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3904-smallest-stable-index-ii](https://github.com/ghost-bw/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Sliding Window
 |  |
 | ------- |
