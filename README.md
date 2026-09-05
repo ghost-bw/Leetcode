@@ -157,6 +157,7 @@ updates will be here
 | [0131-palindrome-partitioning](https://github.com/ghost-bw/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ghost-bw/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/ghost-bw/Leetcode/tree/master/0494-target-sum) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ghost-bw/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
 |  |
 | ------- |
@@ -422,6 +423,7 @@ updates will be here
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ghost-bw/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ghost-bw/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/ghost-bw/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ghost-bw/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/ghost-bw/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/ghost-bw/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -671,6 +673,7 @@ updates will be here
 | [2351-first-letter-to-appear-twice](https://github.com/ghost-bw/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2401-longest-nice-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [2506-count-pairs-of-similar-strings](https://github.com/ghost-bw/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ghost-bw/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ghost-bw/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
