@@ -82,6 +82,7 @@ updates will be here
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ghost-bw/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ghost-bw/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ghost-bw/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1652-defuse-the-bomb](https://github.com/ghost-bw/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1710-maximum-units-on-a-truck](https://github.com/ghost-bw/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ghost-bw/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/ghost-bw/Leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
@@ -774,6 +775,7 @@ updates will be here
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ghost-bw/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ghost-bw/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ghost-bw/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1652-defuse-the-bomb](https://github.com/ghost-bw/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ghost-bw/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ghost-bw/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/ghost-bw/Leetcode/tree/master/2090-k-radius-subarray-averages) |
