@@ -276,6 +276,7 @@ updates will be here
 | [0367-valid-perfect-square](https://github.com/ghost-bw/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/ghost-bw/Leetcode/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/ghost-bw/Leetcode/tree/master/0400-nth-digit) |
+| [0492-construct-the-rectangle](https://github.com/ghost-bw/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/ghost-bw/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0633-sum-of-square-numbers) |
