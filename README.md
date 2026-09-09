@@ -296,6 +296,7 @@ updates will be here
 | [3345-smallest-divisible-digit-product-i](https://github.com/ghost-bw/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ghost-bw/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ghost-bw/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3871-count-commas-in-range-ii](https://github.com/ghost-bw/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ghost-bw/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Linked List
 |  |
