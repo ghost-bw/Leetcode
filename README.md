@@ -461,6 +461,7 @@ updates will be here
 | [3498-reverse-degree-of-a-string](https://github.com/ghost-bw/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/ghost-bw/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3913-sort-vowels-by-frequency](https://github.com/ghost-bw/Leetcode/tree/master/3913-sort-vowels-by-frequency) |
 ## Counting
 |  |
 | ------- |
@@ -480,6 +481,7 @@ updates will be here
 | [2506-count-pairs-of-similar-strings](https://github.com/ghost-bw/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ghost-bw/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3866-first-unique-even-element](https://github.com/ghost-bw/Leetcode/tree/master/3866-first-unique-even-element) |
+| [3913-sort-vowels-by-frequency](https://github.com/ghost-bw/Leetcode/tree/master/3913-sort-vowels-by-frequency) |
 ## Graph Theory
 |  |
 | ------- |
@@ -683,6 +685,7 @@ updates will be here
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ghost-bw/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ghost-bw/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ghost-bw/Leetcode/tree/master/3731-find-missing-elements) |
+| [3913-sort-vowels-by-frequency](https://github.com/ghost-bw/Leetcode/tree/master/3913-sort-vowels-by-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
