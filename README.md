@@ -50,6 +50,7 @@ updates will be here
 | [0485-max-consecutive-ones](https://github.com/ghost-bw/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/ghost-bw/Leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/ghost-bw/Leetcode/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/ghost-bw/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/ghost-bw/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/ghost-bw/Leetcode/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/ghost-bw/Leetcode/tree/master/0561-array-partition) |
@@ -504,6 +505,7 @@ updates will be here
 | [0068-text-justification](https://github.com/ghost-bw/Leetcode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/ghost-bw/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/ghost-bw/Leetcode/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/ghost-bw/Leetcode/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/ghost-bw/Leetcode/tree/master/0735-asteroid-collision) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/ghost-bw/Leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1920-build-array-from-permutation](https://github.com/ghost-bw/Leetcode/tree/master/1920-build-array-from-permutation) |
