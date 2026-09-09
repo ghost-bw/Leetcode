@@ -102,6 +102,7 @@ updates will be here
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ghost-bw/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2401-longest-nice-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2401-longest-nice-subarray) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/ghost-bw/Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2506-count-pairs-of-similar-strings](https://github.com/ghost-bw/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2574-left-and-right-sum-differences](https://github.com/ghost-bw/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/ghost-bw/Leetcode/tree/master/2615-sum-of-distances) |
@@ -440,6 +441,7 @@ updates will be here
 | [2278-percentage-of-letter-in-string](https://github.com/ghost-bw/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/ghost-bw/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/ghost-bw/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/ghost-bw/Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2490-circular-sentence](https://github.com/ghost-bw/Leetcode/tree/master/2490-circular-sentence) |
 | [2506-count-pairs-of-similar-strings](https://github.com/ghost-bw/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/ghost-bw/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -467,6 +469,7 @@ updates will be here
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ghost-bw/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ghost-bw/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/ghost-bw/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/ghost-bw/Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2506-count-pairs-of-similar-strings](https://github.com/ghost-bw/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ghost-bw/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3866-first-unique-even-element](https://github.com/ghost-bw/Leetcode/tree/master/3866-first-unique-even-element) |
@@ -805,6 +808,7 @@ updates will be here
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ghost-bw/Leetcode/tree/master/0014-longest-common-prefix) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/ghost-bw/Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Enumeration
 |  |
 | ------- |
