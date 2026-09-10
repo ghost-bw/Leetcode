@@ -12,7 +12,7 @@ public:
         dp[0] = 1;
         for (int num:nums){
             dp |= (dp << num);
-            if (dp[s]) return true;
+           
         }        
         return dp[s];
     }
