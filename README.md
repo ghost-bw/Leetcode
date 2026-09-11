@@ -42,6 +42,7 @@ updates will be here
 | [0228-summary-ranges](https://github.com/ghost-bw/Leetcode/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/ghost-bw/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/ghost-bw/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/ghost-bw/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ghost-bw/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ghost-bw/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ghost-bw/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -250,6 +251,7 @@ updates will be here
 | [0098-validate-binary-search-tree](https://github.com/ghost-bw/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ghost-bw/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ghost-bw/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/ghost-bw/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ghost-bw/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/ghost-bw/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/ghost-bw/Leetcode/tree/master/0400-nth-digit) |
@@ -281,6 +283,7 @@ updates will be here
 | [0231-power-of-two](https://github.com/ghost-bw/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ghost-bw/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ghost-bw/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/ghost-bw/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ghost-bw/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ghost-bw/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ghost-bw/Leetcode/tree/master/0342-power-of-four) |
@@ -338,6 +341,7 @@ updates will be here
 | [0217-contains-duplicate](https://github.com/ghost-bw/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ghost-bw/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ghost-bw/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ghost-bw/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ghost-bw/Leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/ghost-bw/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/ghost-bw/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -682,6 +686,7 @@ updates will be here
 | [0217-contains-duplicate](https://github.com/ghost-bw/Leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/ghost-bw/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/ghost-bw/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ghost-bw/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ghost-bw/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/ghost-bw/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/ghost-bw/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -738,6 +743,7 @@ updates will be here
 | [0201-bitwise-and-of-numbers-range](https://github.com/ghost-bw/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/ghost-bw/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ghost-bw/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/ghost-bw/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ghost-bw/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ghost-bw/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ghost-bw/Leetcode/tree/master/0389-find-the-difference) |
