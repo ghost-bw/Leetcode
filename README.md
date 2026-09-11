@@ -21,6 +21,7 @@ updates will be here
 | [0066-plus-one](https://github.com/ghost-bw/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ghost-bw/Leetcode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/ghost-bw/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ghost-bw/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ghost-bw/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ghost-bw/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ghost-bw/Leetcode/tree/master/0118-pascals-triangle) |
@@ -175,6 +176,7 @@ updates will be here
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ghost-bw/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ghost-bw/Leetcode/tree/master/0037-sudoku-solver) |
+| [0078-subsets](https://github.com/ghost-bw/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ghost-bw/Leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/ghost-bw/Leetcode/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/ghost-bw/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -738,6 +740,7 @@ updates will be here
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ghost-bw/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ghost-bw/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/ghost-bw/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/ghost-bw/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ghost-bw/Leetcode/tree/master/0137-single-number-ii) |
