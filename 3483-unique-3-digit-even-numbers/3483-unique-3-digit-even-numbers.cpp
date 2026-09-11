@@ -1,34 +1,28 @@
 class Solution {
 public:
     int totalNumbers(vector<int>& digits) {
-        vector<int> freq(10, 0);
+        int freq[10] = {};
         for (int d : digits) freq[d]++;
 
         int ans = 0;
 
-        for (int num = 100; num <= 998; num++) {
-            if (num % 2 != 0) continue;
+        for (int i = 1; i <= 9; i++) {
+            if (freq[i] == 0) continue;
+            freq[i]--;
 
-            int x = num;
-            int a = x / 100;
-            int b = (x / 10) % 10;
-            int c = x % 10;
+            for (int j = 0; j <= 9; j++) {
+                if (freq[j] == 0) continue;
+                freq[j]--;
 
-            vector<int> need(10, 0);
-            need[a]++;
-            need[b]++;
-            need[c]++;
-
-            bool possible = true;
-
-            for (int d = 0; d <= 9; d++) {
-                if (need[d] > freq[d]) {
-                    possible = false;
-                    break;
+                for (int k = 0; k <= 8; k += 2) {
+                    if (freq[k] > 0)
+                        ans++;
                 }
+
+                freq[j]++;
             }
 
-            if (possible) ans++;
+            freq[i]++;
         }
 
         return ans;
