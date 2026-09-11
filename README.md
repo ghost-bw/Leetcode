@@ -41,6 +41,7 @@ updates will be here
 | [0220-contains-duplicate-iii](https://github.com/ghost-bw/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0228-summary-ranges](https://github.com/ghost-bw/Leetcode/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/ghost-bw/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0260-single-number-iii](https://github.com/ghost-bw/Leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/ghost-bw/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ghost-bw/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ghost-bw/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -736,6 +737,7 @@ updates will be here
 | [0191-number-of-1-bits](https://github.com/ghost-bw/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ghost-bw/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/ghost-bw/Leetcode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/ghost-bw/Leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/ghost-bw/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ghost-bw/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ghost-bw/Leetcode/tree/master/0389-find-the-difference) |
