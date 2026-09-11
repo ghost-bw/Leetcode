@@ -154,6 +154,7 @@ updates will be here
 | [0337-house-robber-iii](https://github.com/ghost-bw/Leetcode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/ghost-bw/Leetcode/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ghost-bw/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0392-is-subsequence](https://github.com/ghost-bw/Leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/ghost-bw/Leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/ghost-bw/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ghost-bw/Leetcode/tree/master/0494-target-sum) |
@@ -419,6 +420,7 @@ updates will be here
 | [0383-ransom-note](https://github.com/ghost-bw/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ghost-bw/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/ghost-bw/Leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/ghost-bw/Leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/ghost-bw/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -560,6 +562,7 @@ updates will be here
 | [0151-reverse-words-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ghost-bw/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/ghost-bw/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ghost-bw/Leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/ghost-bw/Leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/ghost-bw/Leetcode/tree/master/0541-reverse-string-ii) |
