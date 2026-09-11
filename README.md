@@ -29,6 +29,7 @@ updates will be here
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ghost-bw/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ghost-bw/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ghost-bw/Leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/ghost-bw/Leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/ghost-bw/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ghost-bw/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/ghost-bw/Leetcode/tree/master/0179-largest-number) |
@@ -739,6 +740,7 @@ updates will be here
 | [0067-add-binary](https://github.com/ghost-bw/Leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/ghost-bw/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/ghost-bw/Leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/ghost-bw/Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/ghost-bw/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ghost-bw/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/ghost-bw/Leetcode/tree/master/0231-power-of-two) |
