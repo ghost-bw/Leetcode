@@ -5,6 +5,7 @@ updates will be here
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ghost-bw/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ghost-bw/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/ghost-bw/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ghost-bw/Leetcode/tree/master/0031-next-permutation) |
@@ -334,6 +335,7 @@ updates will be here
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ghost-bw/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ghost-bw/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ghost-bw/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ghost-bw/Leetcode/tree/master/0013-roman-to-integer) |
