@@ -1016,4 +1016,8 @@ updates will be here
 | ------- |
 | [0322-coin-change](https://github.com/ghost-bw/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ghost-bw/Leetcode/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ghost-bw/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
