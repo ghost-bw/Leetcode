@@ -49,6 +49,7 @@ updates will be here
 | [0268-missing-number](https://github.com/ghost-bw/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ghost-bw/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ghost-bw/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/ghost-bw/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ghost-bw/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ghost-bw/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ghost-bw/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -161,6 +162,7 @@ updates will be here
 | [0152-maximum-product-subarray](https://github.com/ghost-bw/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ghost-bw/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ghost-bw/Leetcode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/ghost-bw/Leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/ghost-bw/Leetcode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/ghost-bw/Leetcode/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ghost-bw/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -217,6 +219,7 @@ updates will be here
 | [0210-course-schedule-ii](https://github.com/ghost-bw/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ghost-bw/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ghost-bw/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/ghost-bw/Leetcode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/ghost-bw/Leetcode/tree/master/0463-island-perimeter) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ghost-bw/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ghost-bw/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1001,6 +1004,7 @@ updates will be here
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/ghost-bw/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ghost-bw/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/ghost-bw/Leetcode/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
@@ -1010,5 +1014,6 @@ updates will be here
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/ghost-bw/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ghost-bw/Leetcode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
