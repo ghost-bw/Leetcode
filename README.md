@@ -77,6 +77,7 @@ updates will be here
 | [0766-toeplitz-matrix](https://github.com/ghost-bw/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/ghost-bw/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0860-lemonade-change](https://github.com/ghost-bw/Leetcode/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/ghost-bw/Leetcode/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/ghost-bw/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ghost-bw/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ghost-bw/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -552,6 +553,7 @@ updates will be here
 | [0079-word-search](https://github.com/ghost-bw/Leetcode/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/ghost-bw/Leetcode/tree/master/0463-island-perimeter) |
 | [0766-toeplitz-matrix](https://github.com/ghost-bw/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/ghost-bw/Leetcode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -562,6 +564,7 @@ updates will be here
 | [0415-add-strings](https://github.com/ghost-bw/Leetcode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/ghost-bw/Leetcode/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/ghost-bw/Leetcode/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/ghost-bw/Leetcode/tree/master/0867-transpose-matrix) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/ghost-bw/Leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1920-build-array-from-permutation](https://github.com/ghost-bw/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ghost-bw/Leetcode/tree/master/1929-concatenation-of-array) |
