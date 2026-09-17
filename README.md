@@ -99,6 +99,7 @@ updates will be here
 | [1436-destination-city](https://github.com/ghost-bw/Leetcode/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ghost-bw/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ghost-bw/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ghost-bw/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/ghost-bw/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ghost-bw/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ghost-bw/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -186,6 +187,7 @@ updates will be here
 | [1092-shortest-common-supersequence](https://github.com/ghost-bw/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/ghost-bw/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/ghost-bw/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ghost-bw/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ghost-bw/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ghost-bw/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/ghost-bw/Leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
@@ -286,6 +288,7 @@ updates will be here
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ghost-bw/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0704-binary-search](https://github.com/ghost-bw/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/ghost-bw/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ghost-bw/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ghost-bw/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ghost-bw/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2831-find-the-longest-equal-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2831-find-the-longest-equal-subarray) |
@@ -402,6 +405,7 @@ updates will be here
 | [1366-rank-teams-by-votes](https://github.com/ghost-bw/Leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1436-destination-city](https://github.com/ghost-bw/Leetcode/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ghost-bw/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ghost-bw/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ghost-bw/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ghost-bw/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/ghost-bw/Leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -879,6 +883,7 @@ updates will be here
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ghost-bw/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ghost-bw/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ghost-bw/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ghost-bw/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ghost-bw/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/ghost-bw/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ghost-bw/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
