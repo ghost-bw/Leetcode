@@ -6,7 +6,6 @@ public:
             if(ch=='1')ones++;
         }
         int ans=INT_MIN;
-        int sum=0;
         int zeroes=0;
         for(int i=0;i<s.length()-1;i++){
             if(s[i]=='0'){
