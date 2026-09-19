@@ -15,6 +15,7 @@ updates will be here
 | [0041-first-missing-positive](https://github.com/ghost-bw/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ghost-bw/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ghost-bw/Leetcode/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/ghost-bw/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ghost-bw/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ghost-bw/Leetcode/tree/master/0053-maximum-subarray) |
@@ -201,6 +202,7 @@ updates will be here
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ghost-bw/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ghost-bw/Leetcode/tree/master/0037-sudoku-solver) |
+| [0047-permutations-ii](https://github.com/ghost-bw/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ghost-bw/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ghost-bw/Leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/ghost-bw/Leetcode/tree/master/0089-gray-code) |
@@ -740,6 +742,7 @@ updates will be here
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ghost-bw/Leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/ghost-bw/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ghost-bw/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ghost-bw/Leetcode/tree/master/0088-merge-sorted-array) |
