@@ -28,11 +28,18 @@ public:
     vector<vector<int>> permuteUnique(vector<int>& nums) {
         sort(nums.begin(), nums.end());
 
-        vector<int> cur;
-        vector<bool> used(nums.size(), false);
+        // vector<int> cur;
+        // vector<bool> used(nums.size(), false);
 
-        solve(nums, cur, used);
+        // solve(nums, cur, used);
 
-        return ans;
+        // return ans;
+
+        vector<vector<int>>ans;
+        do {
+            ans.push_back(nums);
+        }
+        while(next_permutation(nums.begin(),nums.end()));
+        return ans;   
     }
 };
