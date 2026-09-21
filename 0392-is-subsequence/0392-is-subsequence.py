@@ -10,4 +10,4 @@ class Solution:
                 continue
             if(j==len(s)):
                 return True
-        return True if(j==len(s)) else False
+        return False
