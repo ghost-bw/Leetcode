@@ -87,6 +87,7 @@ updates will be here
 | [0821-shortest-distance-to-a-character](https://github.com/ghost-bw/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0860-lemonade-change](https://github.com/ghost-bw/Leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/ghost-bw/Leetcode/tree/master/0867-transpose-matrix) |
+| [0896-monotonic-array](https://github.com/ghost-bw/Leetcode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/ghost-bw/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ghost-bw/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ghost-bw/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
