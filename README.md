@@ -521,6 +521,7 @@ updates will be here
 | [0953-verifying-an-alien-dictionary](https://github.com/ghost-bw/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1092-shortest-common-supersequence](https://github.com/ghost-bw/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ghost-bw/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ghost-bw/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1366-rank-teams-by-votes](https://github.com/ghost-bw/Leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/ghost-bw/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -696,6 +697,7 @@ updates will be here
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ghost-bw/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0735-asteroid-collision](https://github.com/ghost-bw/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ghost-bw/Leetcode/tree/master/0739-daily-temperatures) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/ghost-bw/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/ghost-bw/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -1005,6 +1007,7 @@ updates will be here
 | [0020-valid-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bubble Sort
 |  |
 | ------- |
