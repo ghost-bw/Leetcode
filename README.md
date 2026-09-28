@@ -149,6 +149,7 @@ updates will be here
 | [3028-ant-on-the-boundary](https://github.com/ghost-bw/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ghost-bw/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ghost-bw/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3349-adjacent-increasing-subarrays-detection-i](https://github.com/ghost-bw/Leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/ghost-bw/Leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ghost-bw/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ghost-bw/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
