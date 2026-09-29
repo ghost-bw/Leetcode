@@ -133,6 +133,7 @@ updates will be here
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ghost-bw/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ghost-bw/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/ghost-bw/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ghost-bw/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2399-check-distances-between-same-letters](https://github.com/ghost-bw/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2401-longest-nice-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2401-longest-nice-subarray) |
@@ -310,6 +311,7 @@ updates will be here
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ghost-bw/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ghost-bw/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ghost-bw/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/ghost-bw/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2831-find-the-longest-equal-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 ## Math
 |  |
@@ -914,6 +916,7 @@ updates will be here
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ghost-bw/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ghost-bw/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ghost-bw/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/ghost-bw/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/ghost-bw/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/ghost-bw/Leetcode/tree/master/2615-sum-of-distances) |
 | [3028-ant-on-the-boundary](https://github.com/ghost-bw/Leetcode/tree/master/3028-ant-on-the-boundary) |
@@ -949,6 +952,7 @@ updates will be here
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ghost-bw/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ghost-bw/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/ghost-bw/Leetcode/tree/master/2090-k-radius-subarray-averages) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/ghost-bw/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2401-longest-nice-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [2831-find-the-longest-equal-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 ## Ordered Set
