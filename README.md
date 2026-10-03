@@ -105,6 +105,7 @@ updates will be here
 | [1306-jump-game-iii](https://github.com/ghost-bw/Leetcode/tree/master/1306-jump-game-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ghost-bw/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1345-jump-game-iv](https://github.com/ghost-bw/Leetcode/tree/master/1345-jump-game-iv) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ghost-bw/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1366-rank-teams-by-votes](https://github.com/ghost-bw/Leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ghost-bw/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ghost-bw/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -441,6 +442,7 @@ updates will be here
 | [1248-count-number-of-nice-subarrays](https://github.com/ghost-bw/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1345-jump-game-iv](https://github.com/ghost-bw/Leetcode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ghost-bw/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ghost-bw/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1366-rank-teams-by-votes](https://github.com/ghost-bw/Leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1436-destination-city](https://github.com/ghost-bw/Leetcode/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ghost-bw/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -828,6 +830,7 @@ updates will be here
 | [0628-maximum-product-of-three-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ghost-bw/Leetcode/tree/master/0645-set-mismatch) |
 | [0792-number-of-matching-subsequences](https://github.com/ghost-bw/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ghost-bw/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1366-rank-teams-by-votes](https://github.com/ghost-bw/Leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ghost-bw/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ghost-bw/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -925,6 +928,7 @@ updates will be here
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ghost-bw/Leetcode/tree/master/0561-array-partition) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ghost-bw/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 |  |
 | ------- |
