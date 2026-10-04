@@ -208,6 +208,7 @@ updates will be here
 | [0518-coin-change-ii](https://github.com/ghost-bw/Leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/ghost-bw/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/ghost-bw/Leetcode/tree/master/0650-2-keys-keyboard) |
+| [0678-valid-parenthesis-string](https://github.com/ghost-bw/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/ghost-bw/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/ghost-bw/Leetcode/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/ghost-bw/Leetcode/tree/master/0792-number-of-matching-subsequences) |
@@ -534,6 +535,7 @@ updates will be here
 | [0567-permutation-in-string](https://github.com/ghost-bw/Leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/ghost-bw/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ghost-bw/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0678-valid-parenthesis-string](https://github.com/ghost-bw/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ghost-bw/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/ghost-bw/Leetcode/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/ghost-bw/Leetcode/tree/master/0748-shortest-completing-word) |
@@ -730,6 +732,7 @@ updates will be here
 | [0402-remove-k-digits](https://github.com/ghost-bw/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ghost-bw/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ghost-bw/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/ghost-bw/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/ghost-bw/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ghost-bw/Leetcode/tree/master/0739-daily-temperatures) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -918,6 +921,7 @@ updates will be here
 | [0561-array-partition](https://github.com/ghost-bw/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/ghost-bw/Leetcode/tree/master/0605-can-place-flowers) |
 | [0670-maximum-swap](https://github.com/ghost-bw/Leetcode/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/ghost-bw/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ghost-bw/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/ghost-bw/Leetcode/tree/master/0860-lemonade-change) |
 | [1053-previous-permutation-with-one-swap](https://github.com/ghost-bw/Leetcode/tree/master/1053-previous-permutation-with-one-swap) |
@@ -1057,6 +1061,7 @@ updates will be here
 | [0020-valid-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ghost-bw/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bubble Sort
