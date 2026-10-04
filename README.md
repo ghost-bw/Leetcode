@@ -551,6 +551,7 @@ updates will be here
 | [1092-shortest-common-supersequence](https://github.com/ghost-bw/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ghost-bw/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ghost-bw/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ghost-bw/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1366-rank-teams-by-votes](https://github.com/ghost-bw/Leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/ghost-bw/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -604,6 +605,7 @@ updates will be here
 | [0451-sort-characters-by-frequency](https://github.com/ghost-bw/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ghost-bw/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/ghost-bw/Leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ghost-bw/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1366-rank-teams-by-votes](https://github.com/ghost-bw/Leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ghost-bw/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/ghost-bw/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -925,6 +927,7 @@ updates will be here
 | [0680-valid-palindrome-ii](https://github.com/ghost-bw/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/ghost-bw/Leetcode/tree/master/0860-lemonade-change) |
 | [1053-previous-permutation-with-one-swap](https://github.com/ghost-bw/Leetcode/tree/master/1053-previous-permutation-with-one-swap) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ghost-bw/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1710-maximum-units-on-a-truck](https://github.com/ghost-bw/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ghost-bw/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/ghost-bw/Leetcode/tree/master/1927-sum-game) |
