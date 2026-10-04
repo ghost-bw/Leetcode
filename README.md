@@ -102,6 +102,7 @@ updates will be here
 | [1089-duplicate-zeros](https://github.com/ghost-bw/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/ghost-bw/Leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1207-unique-number-of-occurrences](https://github.com/ghost-bw/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/ghost-bw/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ghost-bw/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ghost-bw/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-jump-game-iii](https://github.com/ghost-bw/Leetcode/tree/master/1306-jump-game-iii) |
@@ -363,6 +364,7 @@ updates will be here
 | [0670-maximum-swap](https://github.com/ghost-bw/Leetcode/tree/master/0670-maximum-swap) |
 | [0788-rotated-digits](https://github.com/ghost-bw/Leetcode/tree/master/0788-rotated-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/ghost-bw/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/ghost-bw/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ghost-bw/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/ghost-bw/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ghost-bw/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -1180,4 +1182,8 @@ updates will be here
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ghost-bw/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/ghost-bw/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
