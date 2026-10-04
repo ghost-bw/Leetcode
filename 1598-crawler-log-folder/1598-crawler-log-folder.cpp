@@ -1,0 +1,19 @@
+class Solution {
+public:
+    int minOperations(vector<string>& logs) {
+        int  count=0;
+        for(string s:logs){
+            if(s=="../"){
+                if(count==0){
+                    continue;
+                }
+                count--;
+            }else if(s=="./"){
+                continue;
+            }else{
+                count++;
+            }
+        }
+        return count;
+    }
+};
