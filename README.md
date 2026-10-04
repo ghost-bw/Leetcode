@@ -561,6 +561,7 @@ updates will be here
 | [1436-destination-city](https://github.com/ghost-bw/Leetcode/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ghost-bw/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/ghost-bw/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/ghost-bw/Leetcode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1598-crawler-log-folder](https://github.com/ghost-bw/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/ghost-bw/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
