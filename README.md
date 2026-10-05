@@ -549,6 +549,7 @@ updates will be here
 | [0804-unique-morse-code-words](https://github.com/ghost-bw/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/ghost-bw/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0830-positions-of-large-groups](https://github.com/ghost-bw/Leetcode/tree/master/0830-positions-of-large-groups) |
+| [0856-score-of-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/ghost-bw/Leetcode/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/ghost-bw/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ghost-bw/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -743,6 +744,7 @@ updates will be here
 | [0678-valid-parenthesis-string](https://github.com/ghost-bw/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/ghost-bw/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ghost-bw/Leetcode/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ghost-bw/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1598-crawler-log-folder](https://github.com/ghost-bw/Leetcode/tree/master/1598-crawler-log-folder) |
@@ -1073,6 +1075,7 @@ updates will be here
 | [0022-generate-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ghost-bw/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bubble Sort
