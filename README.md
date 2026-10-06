@@ -575,6 +575,7 @@ updates will be here
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ghost-bw/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ghost-bw/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/ghost-bw/Leetcode/tree/master/1927-sum-game) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ghost-bw/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ghost-bw/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/ghost-bw/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ghost-bw/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -724,6 +725,7 @@ updates will be here
 | [0917-reverse-only-letters](https://github.com/ghost-bw/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1089-duplicate-zeros](https://github.com/ghost-bw/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/ghost-bw/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ghost-bw/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/ghost-bw/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ghost-bw/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2938-separate-black-and-white-balls](https://github.com/ghost-bw/Leetcode/tree/master/2938-separate-black-and-white-balls) |
@@ -751,6 +753,7 @@ updates will be here
 | [1441-build-an-array-with-stack-operations](https://github.com/ghost-bw/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1598-crawler-log-folder](https://github.com/ghost-bw/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ghost-bw/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/ghost-bw/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/ghost-bw/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -944,6 +947,7 @@ updates will be here
 | [1710-maximum-units-on-a-truck](https://github.com/ghost-bw/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ghost-bw/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/ghost-bw/Leetcode/tree/master/1927-sum-game) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ghost-bw/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ghost-bw/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ghost-bw/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2706-buy-two-chocolates](https://github.com/ghost-bw/Leetcode/tree/master/2706-buy-two-chocolates) |
@@ -1082,6 +1086,7 @@ updates will be here
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ghost-bw/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ghost-bw/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Bubble Sort
 |  |
 | ------- |
