@@ -233,6 +233,7 @@ updates will be here
 | [0089-gray-code](https://github.com/ghost-bw/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ghost-bw/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ghost-bw/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ghost-bw/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/ghost-bw/Leetcode/tree/master/0494-target-sum) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ghost-bw/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -261,6 +262,7 @@ updates will be here
 | [0207-course-schedule](https://github.com/ghost-bw/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ghost-bw/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ghost-bw/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/ghost-bw/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/ghost-bw/Leetcode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/ghost-bw/Leetcode/tree/master/0463-island-perimeter) |
@@ -517,6 +519,7 @@ updates will be here
 | [0242-valid-anagram](https://github.com/ghost-bw/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ghost-bw/Leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/ghost-bw/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ghost-bw/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ghost-bw/Leetcode/tree/master/0383-ransom-note) |
