@@ -83,6 +83,7 @@ updates will be here
 | [0704-binary-search](https://github.com/ghost-bw/Leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/ghost-bw/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ghost-bw/Leetcode/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/ghost-bw/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/ghost-bw/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-shortest-completing-word](https://github.com/ghost-bw/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0766-toeplitz-matrix](https://github.com/ghost-bw/Leetcode/tree/master/0766-toeplitz-matrix) |
@@ -211,6 +212,7 @@ updates will be here
 | [0583-delete-operation-for-two-strings](https://github.com/ghost-bw/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/ghost-bw/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/ghost-bw/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0740-delete-and-earn](https://github.com/ghost-bw/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/ghost-bw/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/ghost-bw/Leetcode/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/ghost-bw/Leetcode/tree/master/0792-number-of-matching-subsequences) |
@@ -439,6 +441,7 @@ updates will be here
 | [0645-set-mismatch](https://github.com/ghost-bw/Leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ghost-bw/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/ghost-bw/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0740-delete-and-earn](https://github.com/ghost-bw/Leetcode/tree/master/0740-delete-and-earn) |
 | [0748-shortest-completing-word](https://github.com/ghost-bw/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/ghost-bw/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0792-number-of-matching-subsequences](https://github.com/ghost-bw/Leetcode/tree/master/0792-number-of-matching-subsequences) |
