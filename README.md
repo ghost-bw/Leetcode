@@ -98,6 +98,7 @@ updates will be here
 | [0953-verifying-an-alien-dictionary](https://github.com/ghost-bw/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ghost-bw/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ghost-bw/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1049-last-stone-weight-ii](https://github.com/ghost-bw/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1052-grumpy-bookstore-owner](https://github.com/ghost-bw/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1053-previous-permutation-with-one-swap](https://github.com/ghost-bw/Leetcode/tree/master/1053-previous-permutation-with-one-swap) |
 | [1089-duplicate-zeros](https://github.com/ghost-bw/Leetcode/tree/master/1089-duplicate-zeros) |
@@ -216,6 +217,7 @@ updates will be here
 | [0746-min-cost-climbing-stairs](https://github.com/ghost-bw/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/ghost-bw/Leetcode/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/ghost-bw/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [1049-last-stone-weight-ii](https://github.com/ghost-bw/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/ghost-bw/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/ghost-bw/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/ghost-bw/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -1190,10 +1192,12 @@ updates will be here
 | [0322-coin-change](https://github.com/ghost-bw/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ghost-bw/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/ghost-bw/Leetcode/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/ghost-bw/Leetcode/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ghost-bw/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/ghost-bw/Leetcode/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
