@@ -557,6 +557,7 @@ updates will be here
 | [0917-reverse-only-letters](https://github.com/ghost-bw/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ghost-bw/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ghost-bw/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
+| [1021-remove-outermost-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/ghost-bw/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ghost-bw/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -752,6 +753,7 @@ updates will be here
 | [0739-daily-temperatures](https://github.com/ghost-bw/Leetcode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ghost-bw/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ghost-bw/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1598-crawler-log-folder](https://github.com/ghost-bw/Leetcode/tree/master/1598-crawler-log-folder) |
@@ -1087,6 +1089,7 @@ updates will be here
 | [0678-valid-parenthesis-string](https://github.com/ghost-bw/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ghost-bw/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ghost-bw/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ghost-bw/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
