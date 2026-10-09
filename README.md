@@ -92,6 +92,7 @@ updates will be here
 | [0821-shortest-distance-to-a-character](https://github.com/ghost-bw/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0860-lemonade-change](https://github.com/ghost-bw/Leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/ghost-bw/Leetcode/tree/master/0867-transpose-matrix) |
+| [0888-fair-candy-swap](https://github.com/ghost-bw/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/ghost-bw/Leetcode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/ghost-bw/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ghost-bw/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -326,6 +327,7 @@ updates will be here
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ghost-bw/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0704-binary-search](https://github.com/ghost-bw/Leetcode/tree/master/0704-binary-search) |
 | [0792-number-of-matching-subsequences](https://github.com/ghost-bw/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0888-fair-candy-swap](https://github.com/ghost-bw/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/ghost-bw/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ghost-bw/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ghost-bw/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -449,6 +451,7 @@ updates will be here
 | [0792-number-of-matching-subsequences](https://github.com/ghost-bw/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/ghost-bw/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0859-buddy-strings](https://github.com/ghost-bw/Leetcode/tree/master/0859-buddy-strings) |
+| [0888-fair-candy-swap](https://github.com/ghost-bw/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/ghost-bw/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ghost-bw/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ghost-bw/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -871,6 +874,7 @@ updates will be here
 | [0628-maximum-product-of-three-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ghost-bw/Leetcode/tree/master/0645-set-mismatch) |
 | [0792-number-of-matching-subsequences](https://github.com/ghost-bw/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0888-fair-candy-swap](https://github.com/ghost-bw/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ghost-bw/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1366-rank-teams-by-votes](https://github.com/ghost-bw/Leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ghost-bw/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
