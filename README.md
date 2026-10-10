@@ -806,6 +806,7 @@ updates will be here
 | [0595-big-countries](https://github.com/ghost-bw/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/ghost-bw/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0601-human-traffic-of-stadium](https://github.com/ghost-bw/Leetcode/tree/master/0601-human-traffic-of-stadium) |
+| [0620-not-boring-movies](https://github.com/ghost-bw/Leetcode/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/ghost-bw/Leetcode/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/ghost-bw/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/ghost-bw/Leetcode/tree/master/1068-product-sales-analysis-i) |
