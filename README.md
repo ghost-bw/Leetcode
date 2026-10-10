@@ -148,6 +148,7 @@ updates will be here
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ghost-bw/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ghost-bw/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ghost-bw/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ghost-bw/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2399-check-distances-between-same-letters](https://github.com/ghost-bw/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2401-longest-nice-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2401-longest-nice-subarray) |
@@ -334,6 +335,7 @@ updates will be here
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ghost-bw/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ghost-bw/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ghost-bw/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ghost-bw/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2831-find-the-longest-equal-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 ## Math
 |  |
@@ -890,6 +892,7 @@ updates will be here
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ghost-bw/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ghost-bw/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ghost-bw/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2706-buy-two-chocolates](https://github.com/ghost-bw/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ghost-bw/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ghost-bw/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -905,6 +908,7 @@ updates will be here
 | [0480-sliding-window-median](https://github.com/ghost-bw/Leetcode/tree/master/0480-sliding-window-median) |
 | [0912-sort-an-array](https://github.com/ghost-bw/Leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ghost-bw/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ghost-bw/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quickselect
 |  |
 | ------- |
@@ -973,6 +977,7 @@ updates will be here
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ghost-bw/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ghost-bw/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ghost-bw/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ghost-bw/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2706-buy-two-chocolates](https://github.com/ghost-bw/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2938-separate-black-and-white-balls](https://github.com/ghost-bw/Leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/ghost-bw/Leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
