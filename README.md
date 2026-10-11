@@ -48,6 +48,7 @@ updates will be here
 | [0217-contains-duplicate](https://github.com/ghost-bw/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ghost-bw/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/ghost-bw/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0221-maximal-square](https://github.com/ghost-bw/Leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/ghost-bw/Leetcode/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/ghost-bw/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/ghost-bw/Leetcode/tree/master/0260-single-number-iii) |
@@ -203,6 +204,7 @@ updates will be here
 | [0152-maximum-product-subarray](https://github.com/ghost-bw/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ghost-bw/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ghost-bw/Leetcode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/ghost-bw/Leetcode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/ghost-bw/Leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/ghost-bw/Leetcode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/ghost-bw/Leetcode/tree/master/0338-counting-bits) |
@@ -668,6 +670,7 @@ updates will be here
 | [0059-spiral-matrix-ii](https://github.com/ghost-bw/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ghost-bw/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/ghost-bw/Leetcode/tree/master/0079-word-search) |
+| [0221-maximal-square](https://github.com/ghost-bw/Leetcode/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/ghost-bw/Leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/ghost-bw/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/ghost-bw/Leetcode/tree/master/0766-toeplitz-matrix) |
