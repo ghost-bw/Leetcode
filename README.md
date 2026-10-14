@@ -333,6 +333,7 @@ updates will be here
 | [0349-intersection-of-two-arrays](https://github.com/ghost-bw/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ghost-bw/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/ghost-bw/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/ghost-bw/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/ghost-bw/Leetcode/tree/master/0400-nth-digit) |
 | [0493-reverse-pairs](https://github.com/ghost-bw/Leetcode/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -1202,6 +1203,7 @@ updates will be here
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ghost-bw/Leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/ghost-bw/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Rolling Hash
 |  |
 | ------- |
