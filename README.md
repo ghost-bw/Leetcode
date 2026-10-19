@@ -95,6 +95,7 @@ updates will be here
 | [0792-number-of-matching-subsequences](https://github.com/ghost-bw/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/ghost-bw/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/ghost-bw/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ghost-bw/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/ghost-bw/Leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/ghost-bw/Leetcode/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/ghost-bw/Leetcode/tree/master/0888-fair-candy-swap) |
@@ -347,6 +348,7 @@ updates will be here
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ghost-bw/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0704-binary-search](https://github.com/ghost-bw/Leetcode/tree/master/0704-binary-search) |
 | [0792-number-of-matching-subsequences](https://github.com/ghost-bw/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ghost-bw/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/ghost-bw/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/ghost-bw/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ghost-bw/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -1303,4 +1305,8 @@ updates will be here
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ghost-bw/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ghost-bw/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
