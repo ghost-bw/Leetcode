@@ -6,9 +6,7 @@ public:
         vector<int>target=vec2;
         target.insert(end(target),begin(vec2),end(vec2));
         auto it = search(target.begin(), target.end(), vec1.begin(), vec1.end());
-    
-        // If it doesn't reach the end, the pattern was found
-         return it != target.end();
+        return it != target.end();
     }
     int sortableIntegers(vector<int>& nums) {
         int n=nums.size();
