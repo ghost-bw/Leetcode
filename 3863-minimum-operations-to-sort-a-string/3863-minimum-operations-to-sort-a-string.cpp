@@ -2,7 +2,6 @@ class Solution {
 public:
     int minOperations(string s) {
         int n=s.length();
-        
         if(is_sorted(begin(s),end(s)))return 0;
         if(n==2)return -1;
         char min_ch=*min_element(begin(s),end(s));
