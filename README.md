@@ -116,6 +116,7 @@ updates will be here
 | [1207-unique-number-of-occurrences](https://github.com/ghost-bw/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/ghost-bw/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ghost-bw/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/ghost-bw/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ghost-bw/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-jump-game-iii](https://github.com/ghost-bw/Leetcode/tree/master/1306-jump-game-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ghost-bw/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -296,6 +297,7 @@ updates will be here
 | [0463-island-perimeter](https://github.com/ghost-bw/Leetcode/tree/master/0463-island-perimeter) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ghost-bw/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ghost-bw/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1254-number-of-closed-islands](https://github.com/ghost-bw/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/ghost-bw/Leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ghost-bw/Leetcode/tree/master/1345-jump-game-iv) |
 ## Binary Tree
@@ -332,6 +334,7 @@ updates will be here
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ghost-bw/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ghost-bw/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ghost-bw/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1254-number-of-closed-islands](https://github.com/ghost-bw/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/ghost-bw/Leetcode/tree/master/1306-jump-game-iii) |
 ## Binary Search Tree
 |  |
@@ -710,6 +713,7 @@ updates will be here
 | [0566-reshape-the-matrix](https://github.com/ghost-bw/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/ghost-bw/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/ghost-bw/Leetcode/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/ghost-bw/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -1121,6 +1125,7 @@ updates will be here
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ghost-bw/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/ghost-bw/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ghost-bw/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1998-gcd-sort-of-an-array](https://github.com/ghost-bw/Leetcode/tree/master/1998-gcd-sort-of-an-array) |
 ## Monotonic Queue
