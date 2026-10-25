@@ -37,6 +37,7 @@ updates will be here
 | [0128-longest-consecutive-sequence](https://github.com/ghost-bw/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ghost-bw/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ghost-bw/Leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/ghost-bw/Leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ghost-bw/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ghost-bw/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ghost-bw/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -212,6 +213,7 @@ updates will be here
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ghost-bw/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ghost-bw/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/ghost-bw/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/ghost-bw/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ghost-bw/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ghost-bw/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ghost-bw/Leetcode/tree/master/0213-house-robber-ii) |
@@ -447,6 +449,7 @@ updates will be here
 | [0041-first-missing-positive](https://github.com/ghost-bw/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ghost-bw/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/ghost-bw/Leetcode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/ghost-bw/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/ghost-bw/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ghost-bw/Leetcode/tree/master/0217-contains-duplicate) |
@@ -552,6 +555,7 @@ updates will be here
 | [0115-distinct-subsequences](https://github.com/ghost-bw/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ghost-bw/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/ghost-bw/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/ghost-bw/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/ghost-bw/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ghost-bw/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -1125,6 +1129,7 @@ updates will be here
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ghost-bw/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/ghost-bw/Leetcode/tree/master/0139-word-break) |
 | [0792-number-of-matching-subsequences](https://github.com/ghost-bw/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/ghost-bw/Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Enumeration
@@ -1188,6 +1193,7 @@ updates will be here
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ghost-bw/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ghost-bw/Leetcode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/ghost-bw/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ghost-bw/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ghost-bw/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -1318,4 +1324,8 @@ updates will be here
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ghost-bw/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ghost-bw/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
