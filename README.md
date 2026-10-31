@@ -8,6 +8,7 @@ updates will be here
 | [0001-two-sum](https://github.com/ghost-bw/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ghost-bw/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ghost-bw/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/ghost-bw/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ghost-bw/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ghost-bw/Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ghost-bw/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -763,6 +764,7 @@ updates will be here
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ghost-bw/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ghost-bw/Leetcode/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ghost-bw/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ghost-bw/Leetcode/tree/master/0031-next-permutation) |
@@ -919,6 +921,7 @@ updates will be here
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ghost-bw/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ghost-bw/Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/ghost-bw/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/0049-group-anagrams) |
