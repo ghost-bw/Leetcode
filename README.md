@@ -68,6 +68,7 @@ updates will be here
 | [0416-partition-equal-subset-sum](https://github.com/ghost-bw/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ghost-bw/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ghost-bw/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ghost-bw/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/ghost-bw/Leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ghost-bw/Leetcode/tree/master/0463-island-perimeter) |
 | [0480-sliding-window-median](https://github.com/ghost-bw/Leetcode/tree/master/0480-sliding-window-median) |
@@ -401,6 +402,7 @@ updates will be here
 | [0396-rotate-function](https://github.com/ghost-bw/Leetcode/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/ghost-bw/Leetcode/tree/master/0400-nth-digit) |
 | [0415-add-strings](https://github.com/ghost-bw/Leetcode/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ghost-bw/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0492-construct-the-rectangle](https://github.com/ghost-bw/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/ghost-bw/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ghost-bw/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
