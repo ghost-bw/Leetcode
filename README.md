@@ -188,6 +188,7 @@ updates will be here
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/ghost-bw/Leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ghost-bw/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ghost-bw/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ghost-bw/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ghost-bw/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ghost-bw/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ghost-bw/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -254,6 +255,7 @@ updates will be here
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ghost-bw/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ghost-bw/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/ghost-bw/Leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ghost-bw/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Backtracking
 |  |
 | ------- |
@@ -427,6 +429,7 @@ updates will be here
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ghost-bw/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ghost-bw/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ghost-bw/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ghost-bw/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ghost-bw/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ghost-bw/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ghost-bw/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -537,6 +540,7 @@ updates will be here
 | [3146-permutation-difference-between-two-strings](https://github.com/ghost-bw/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ghost-bw/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ghost-bw/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ghost-bw/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ghost-bw/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ghost-bw/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ghost-bw/Leetcode/tree/master/3731-find-missing-elements) |
@@ -984,6 +988,7 @@ updates will be here
 | [0912-sort-an-array](https://github.com/ghost-bw/Leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ghost-bw/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ghost-bw/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ghost-bw/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Quickselect
 |  |
 | ------- |
@@ -1133,6 +1138,7 @@ updates will be here
 | [2401-longest-nice-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [2831-find-the-longest-equal-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ghost-bw/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ghost-bw/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Ordered Set
 |  |
 | ------- |
