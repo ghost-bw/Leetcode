@@ -174,6 +174,7 @@ updates will be here
 | [2670-find-the-distinct-difference-array](https://github.com/ghost-bw/Leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [2706-buy-two-chocolates](https://github.com/ghost-bw/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2717-semi-ordered-permutation](https://github.com/ghost-bw/Leetcode/tree/master/2717-semi-ordered-permutation) |
+| [2747-count-zero-request-servers](https://github.com/ghost-bw/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ghost-bw/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2831-find-the-longest-equal-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ghost-bw/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -531,6 +532,7 @@ updates will be here
 | [2506-count-pairs-of-similar-strings](https://github.com/ghost-bw/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2615-sum-of-distances](https://github.com/ghost-bw/Leetcode/tree/master/2615-sum-of-distances) |
 | [2670-find-the-distinct-difference-array](https://github.com/ghost-bw/Leetcode/tree/master/2670-find-the-distinct-difference-array) |
+| [2747-count-zero-request-servers](https://github.com/ghost-bw/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2831-find-the-longest-equal-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ghost-bw/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ghost-bw/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -971,6 +973,7 @@ updates will be here
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/ghost-bw/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ghost-bw/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2706-buy-two-chocolates](https://github.com/ghost-bw/Leetcode/tree/master/2706-buy-two-chocolates) |
+| [2747-count-zero-request-servers](https://github.com/ghost-bw/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ghost-bw/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ghost-bw/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ghost-bw/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -1136,6 +1139,7 @@ updates will be here
 | [2269-find-the-k-beauty-of-a-number](https://github.com/ghost-bw/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ghost-bw/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2401-longest-nice-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2401-longest-nice-subarray) |
+| [2747-count-zero-request-servers](https://github.com/ghost-bw/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2831-find-the-longest-equal-subarray](https://github.com/ghost-bw/Leetcode/tree/master/2831-find-the-longest-equal-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ghost-bw/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ghost-bw/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
